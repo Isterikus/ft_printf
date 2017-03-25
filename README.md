@@ -1,10 +1,10 @@
 Our fourth project in UNIT Factory.
 
 Our task was to recode printf functions using this functions:
-◦ write
-◦ malloc
-◦ free
-◦ exit
+◦ write,
+◦ malloc,
+◦ free,
+◦ exit,
 ◦ The functions of man 3 stdarg
 
 And our libft.
